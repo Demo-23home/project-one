@@ -5,6 +5,5 @@ fi
 for {1..$a}
 echo "$i "
 end
-echo"this phrase won't be printed"
 
 
