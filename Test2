@@ -1,0 +1,6 @@
+a=7
+if {$a=7}
+echo "a equals 7:
+fi
+
+
