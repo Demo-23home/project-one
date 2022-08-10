@@ -1,3 +1,4 @@
+#!/bin/bash
 a=7
 if [$a==7]
 then
